@@ -1,0 +1,17 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "JavaScript",
+    "NodeJS",
+    "RECTJS"
+  ],
+  "license": "ISC",
+  "author": "Anil Mundhe",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
